@@ -1,0 +1,6 @@
+{
+  "name": "Dua Online Quran Academy",
+  "description": "دعا آن لائن قرآن اکیڈمی — مکمل قرآن کورسز، ویڈیو اسباق اور جیز کیش، ایزی پیسہ و انٹرنیشنل اے ٹی ایم کارڈ کے ذریعے فیس کی ادائیگی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
